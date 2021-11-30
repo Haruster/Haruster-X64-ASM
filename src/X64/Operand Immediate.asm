@@ -1,0 +1,4 @@
+; 피연산자 상수
+
+mov   rcx, 0xbeef   ; rcx = 0xbeef
+mov   rcx, 0x1337   ; rcx + 0x1337, rcx = 0xbeef + 0x1337
